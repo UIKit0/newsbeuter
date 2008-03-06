@@ -1,0 +1,12 @@
+#summary useful newsbeuter tips and tricks
+#labels Featured
+= Introduction =
+
+This page collects useful tips and tricks that can help you improve your newsbeuter experience.
+
+== I want to have a feed that contains all unread articles of all feeds ==
+
+This is supported since newsbeuter 0.7. All you need to do is to add the following line to your `~/.newsbeuter/urls` file:
+{{{
+"query:Unread Articles:unread = \"yes\""
+}}}
