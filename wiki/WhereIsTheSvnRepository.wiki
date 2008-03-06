@@ -1,0 +1,7 @@
+#summary where is the SVN repository?
+#labels Featured
+= Where is the SVN Repository? =
+
+"The newsbeuter SVN repository is empty. Where can I find the source code?" many people ask. The answer is simple: it is hosted externally, namely here: http://bereshit.synflood.at/svn/noos/
+
+This is because of historical reasons. There are currently no plans to transition the repository to Google.
