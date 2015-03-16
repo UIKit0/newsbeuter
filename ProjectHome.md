@@ -1,0 +1,1 @@
+Newsbeuter is an RSS feed reader designed to be used on text terminals on Unix and Unix-like systems. It was developed with texttools users in mind, and thus its interface is similar to tools like mutt and slrn.
